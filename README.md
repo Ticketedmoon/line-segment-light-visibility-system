@@ -1,18 +1,12 @@
 # Line Segment Light Visibility System (LSLVS)
 
----
-
 ## What is this project?
 A demonstration of a light/visibility system done via line segment intersection.
-
----
 
 ## Tools
 - C++
 - SFML
 - CMake
-
----
 
 ## Dev Log
 
