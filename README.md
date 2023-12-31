@@ -29,12 +29,12 @@ The goal with this was to add a visibility system to the game so we could determ
 This went through many changes as a result of the wrong strategy being used. The initial implementation worked for
 a set of rays in a radial pattern around the player entity. However, when joining these rays with a TriangleFan there 
 was a lot of jagged edges, flickering and clipping over the corners of other world entities. Eventually, I managed to
-succeed in getting this to work. 
+succeed in getting this to work.
 
-Here are the changes summarised during this period:
-- Visibility System with Line Segment Intersection
+---
 
-**Screenshots**
+#### Screenshots
+
 ![Sat 30 Dec 2023 16:57:20 GMT](https://github.com/Ticketedmoon/line-segment-light-visibility-system/assets/21260839/13a49eac-5329-405d-a8b1-42d4cab983c4)
 ---
 ![Sat 30 Dec 2023 16:50:20 GMT](https://github.com/Ticketedmoon/line-segment-light-visibility-system/assets/21260839/875e6331-0756-4a0f-80a4-6ddcfcf30e9e)
