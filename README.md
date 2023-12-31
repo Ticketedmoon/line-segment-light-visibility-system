@@ -8,6 +8,8 @@ A demonstration of a light/visibility system done via line segment intersection.
 - SFML
 - CMake
 
+---
+
 ## Dev Log
 
 ### Entry #1 [Nov 14th -> Nov 26th]:
