@@ -43,7 +43,7 @@ succeed in getting this to work.
 ---
 
 
-- The pinky block represents out player and light source. 
+- The pinky block represents our player and light source. 
 - The yellow area represents the region the player can see.
 
 ---
